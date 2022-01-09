@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SMagdum
-- 👀 I’m interested in programming and coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shardulmagdum1994@gmail.com
